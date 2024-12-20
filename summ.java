@@ -26,6 +26,10 @@ public class summ{
         }
         System.out.println("The largest number is :" + sum);
 
+
+        int avg= (num1 + num2 + num3)/ 3;
+        System.out.println("The average of the three numbers is: " + avg);
+
         sc.close();
     }
 
