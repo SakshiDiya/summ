@@ -30,6 +30,7 @@ public class summ{
         int avg= (num1 + num2 + num3)/ 3;
         System.out.println("The average of the three numbers is: " + avg);
 
+        System.out.println("hello");
         sc.close();
     }
 
